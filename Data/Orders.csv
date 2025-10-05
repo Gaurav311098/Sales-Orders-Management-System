@@ -1,0 +1,551 @@
+order_id,customer_id,employee_id,order_date,delivery_date,order_status,shipping_address,shipping_city,shipping_state,shipping_zip,shipping_method
+1,134,33,2021-06-16,2021-06-19,Shipped,252 Bartelt Trail,Pasadena,California,91109,Standard
+2,91,71,2023-03-05,2023-03-08,Shipped,2926 Everett Parkway,Saint Louis,Missouri,63104,Overnight
+3,315,97,2022-08-09,2022-08-12,Delivered,7888 Arrowood Hill,Louisville,Kentucky,40233,Overnight
+4,328,84,2023-10-15,2023-10-18,Shipped,9 Melody Trail,Albany,Georgia,31704,Standard
+5,536,98,2023-01-15,2023-01-18,Returned,942 Larry Street,Charlottesville,Virginia,22908,Overnight
+6,493,94,2024-12-02,2024-12-05,Shipped,0976 Elmside Road,Las Vegas,Nevada,89166,Overnight
+7,498,63,2022-11-11,2022-11-14,Shipped,5 Gale Terrace,Saint Louis,Missouri,63150,Standard
+8,218,32,2021-05-26,2021-05-29,Delivered,10718 Porter Trail,Fresno,California,93786,Standard
+9,73,54,2021-05-09,2021-05-12,Cancelled,439 Fair Oaks Park,Peoria,Illinois,61635,Express
+10,256,15,2022-06-02,2022-06-05,Shipped,0 Lerdahl Plaza,Daytona Beach,Florida,32118,Express
+11,420,36,2023-10-23,2023-10-26,Cancelled,79217 Miller Circle,Chicago,Illinois,60691,Standard
+12,509,57,2024-05-28,2024-05-31,Cancelled,749 Manitowish Way,Dallas,Texas,75367,Standard
+13,547,96,2021-02-02,2021-02-05,Shipped,35806 Novick Street,Topeka,Kansas,66629,Overnight
+14,393,22,2023-05-12,2023-05-15,Returned,9 Farwell Avenue,Virginia Beach,Virginia,23464,Overnight
+15,580,15,2022-10-15,2022-10-18,Shipped,551 Arrowood Terrace,Grand Rapids,Michigan,49505,Overnight
+16,213,76,2023-04-03,2023-04-06,Cancelled,27140 Vidon Lane,Washington,District of Columbia,20591,Standard
+17,242,13,2025-04-20,2025-04-23,Cancelled,53 Nevada Road,Riverside,California,92505,Express
+18,579,38,2021-04-09,2021-04-12,Shipped,1887 Kinsman Circle,Champaign,Illinois,61825,Standard
+19,326,79,2021-06-22,2021-06-25,Cancelled,617 Shoshone Circle,Providence,Rhode Island,2912,Standard
+20,149,96,2022-09-26,2022-09-29,Cancelled,3448 Sachs Terrace,Anaheim,California,92825,Express
+21,533,6,2024-02-02,2024-02-05,Delivered,531 American Ash Way,El Paso,Texas,79977,Standard
+22,320,86,2022-11-30,2022-12-03,Delivered,6 Lakeland Parkway,Fort Wayne,Indiana,46862,Standard
+23,315,80,2024-09-24,2024-09-27,Cancelled,4444 Brickson Park Point,San Diego,California,92165,Express
+24,503,94,2023-01-29,2023-02-01,Cancelled,1673 Sullivan Court,Albany,New York,12255,Express
+25,506,68,2021-11-12,2021-11-15,Returned,861 Mayer Terrace,Van Nuys,California,91499,Overnight
+26,443,97,2023-04-24,2023-04-27,Delivered,0074 Clarendon Trail,Rochester,Minnesota,55905,Standard
+27,151,30,2024-09-11,2024-09-14,Cancelled,81 Scofield Terrace,Irvine,California,92710,Express
+28,106,36,2022-09-17,2022-09-20,Returned,7845 Kensington Alley,Chattanooga,Tennessee,37405,Standard
+29,564,88,2021-02-27,2021-03-02,Shipped,6931 Kenwood Parkway,San Antonio,Texas,78260,Express
+30,413,51,2024-10-17,2024-10-20,Delivered,46 Judy Place,Hialeah,Florida,33018,Express
+31,152,7,2022-09-02,2022-09-05,Cancelled,93644 Acker Circle,Washington,District of Columbia,20073,Overnight
+32,45,73,2022-11-20,2022-11-23,Returned,83 Vera Plaza,Charleston,West Virginia,25389,Overnight
+33,164,36,2023-05-14,2023-05-17,Delivered,00471 Rusk Lane,Erie,Pennsylvania,16565,Overnight
+34,424,49,2025-07-13,2025-07-16,Cancelled,407 Bluejay Junction,San Diego,California,92160,Express
+35,250,12,2025-04-25,2025-04-28,Delivered,97853 Waubesa Parkway,Fresno,California,93778,Standard
+36,260,7,2021-08-11,2021-08-14,Delivered,3 Fair Oaks Court,Valley Forge,Pennsylvania,19495,Overnight
+37,40,39,2023-01-18,2023-01-21,Returned,932 Brickson Park Junction,San Francisco,California,94147,Express
+38,143,33,2022-07-21,2022-07-24,Shipped,8 Shasta Trail,Washington,District of Columbia,20425,Standard
+39,505,67,2024-12-14,2024-12-17,Returned,9617 Declaration Way,Orlando,Florida,32819,Overnight
+40,317,32,2021-04-21,2021-04-24,Shipped,78 Graceland Terrace,Tuscaloosa,Alabama,35405,Standard
+41,106,36,2022-05-05,2022-05-08,Cancelled,350 Longview Crossing,Topeka,Kansas,66642,Standard
+42,591,66,2024-10-19,2024-10-22,Cancelled,28 Manitowish Court,Santa Barbara,California,93111,Standard
+43,150,3,2024-01-29,2024-02-01,Shipped,0629 Dryden Crossing,Trenton,New Jersey,8603,Standard
+44,67,10,2021-01-23,2021-01-26,Returned,56 Hoard Parkway,Fullerton,California,92835,Standard
+45,347,61,2021-11-10,2021-11-13,Shipped,951 Graceland Crossing,Houston,Texas,77206,Standard
+46,474,51,2022-06-13,2022-06-16,Delivered,0 Victoria Road,Duluth,Minnesota,55805,Overnight
+47,52,12,2021-08-10,2021-08-13,Shipped,74144 Norway Maple Alley,Washington,District of Columbia,20337,Overnight
+48,399,57,2024-12-03,2024-12-06,Returned,9734 Hudson Parkway,Orlando,Florida,32825,Express
+49,416,50,2022-04-07,2022-04-10,Returned,15168 Ryan Trail,Pensacola,Florida,32575,Overnight
+50,228,18,2022-08-16,2022-08-19,Cancelled,108 Chinook Point,Akron,Ohio,44321,Express
+51,498,67,2022-01-06,2022-01-09,Delivered,6 Packers Avenue,Sparks,Nevada,89436,Express
+52,79,42,2021-01-31,2021-02-03,Cancelled,00654 Sunbrook Avenue,Roanoke,Virginia,24004,Standard
+53,414,82,2025-07-12,2025-07-15,Returned,2 Jenna Street,Akron,Ohio,44329,Overnight
+54,64,68,2021-11-24,2021-11-27,Delivered,28014 Cody Way,New Haven,Connecticut,6505,Express
+55,200,31,2024-06-11,2024-06-14,Cancelled,0268 Butternut Point,West Palm Beach,Florida,33411,Overnight
+56,261,17,2023-04-06,2023-04-09,Cancelled,921 Summerview Court,Panama City,Florida,32412,Express
+57,472,78,2022-11-06,2022-11-09,Delivered,94764 Hollow Ridge Terrace,Washington,District of Columbia,20540,Express
+58,277,18,2025-02-17,2025-02-20,Shipped,0247 West Street,Tulsa,Oklahoma,74126,Express
+59,36,18,2021-08-08,2021-08-11,Cancelled,93143 Becker Point,Washington,District of Columbia,20260,Standard
+60,231,59,2021-02-13,2021-02-16,Shipped,791 Anthes Trail,Cleveland,Ohio,44118,Express
+61,4,67,2024-01-12,2024-01-15,Delivered,502 Scoville Pass,Memphis,Tennessee,38168,Express
+62,18,52,2024-05-26,2024-05-29,Delivered,8452 Comanche Road,Richmond,Virginia,23213,Overnight
+63,181,69,2023-07-21,2023-07-24,Cancelled,6 Fieldstone Street,Lakewood,Washington,98498,Overnight
+64,339,91,2021-10-01,2021-10-04,Delivered,313 Ridgeway Parkway,Dayton,Ohio,45470,Overnight
+65,69,48,2024-07-17,2024-07-20,Shipped,4018 American Junction,Phoenix,Arizona,85072,Standard
+66,272,52,2023-04-08,2023-04-11,Returned,9763 Mandrake Road,Tacoma,Washington,98447,Standard
+67,443,44,2021-07-30,2021-08-02,Delivered,710 Merry Pass,Portsmouth,New Hampshire,3804,Express
+68,23,6,2022-08-24,2022-08-27,Delivered,2222 Bay Center,Los Angeles,California,90081,Standard
+69,294,29,2022-12-01,2022-12-04,Returned,58 Jenna Plaza,Lexington,Kentucky,40596,Express
+70,4,2,2022-06-10,2022-06-13,Cancelled,40423 Johnson Circle,Tucson,Arizona,85743,Express
+71,44,80,2025-01-15,2025-01-18,Delivered,6141 Randy Center,New Orleans,Louisiana,70129,Standard
+72,413,46,2024-06-22,2024-06-25,Delivered,59 Katie Hill,Joliet,Illinois,60435,Standard
+73,42,76,2024-07-03,2024-07-06,Shipped,4 Arapahoe Drive,Shawnee Mission,Kansas,66276,Express
+74,493,42,2021-04-16,2021-04-19,Cancelled,8094 Amoth Center,New York City,New York,10184,Standard
+75,329,26,2025-02-25,2025-02-28,Returned,2 Knutson Center,Houston,Texas,77090,Overnight
+76,577,9,2021-01-21,2021-01-24,Shipped,0998 South Court,Huntington,West Virginia,25711,Overnight
+77,337,59,2025-03-20,2025-03-23,Shipped,08505 Shopko Hill,San Francisco,California,94164,Express
+78,107,1,2021-04-25,2021-04-28,Shipped,652 Acker Lane,Albuquerque,New Mexico,87190,Overnight
+79,247,40,2025-08-02,2025-08-05,Returned,0 Petterle Plaza,New Castle,Pennsylvania,16107,Standard
+80,266,49,2022-11-21,2022-11-24,Returned,9343 Briar Crest Road,Akron,Ohio,44305,Standard
+81,138,25,2022-10-06,2022-10-09,Delivered,9349 Mcbride Circle,Panama City,Florida,32405,Overnight
+82,31,55,2022-04-15,2022-04-18,Returned,45562 Golf View Center,San Antonio,Texas,78240,Overnight
+83,560,6,2021-07-07,2021-07-10,Shipped,31174 Transport Street,Anchorage,Alaska,99512,Standard
+84,355,79,2022-10-07,2022-10-10,Cancelled,13332 Derek Road,Battle Creek,Michigan,49018,Express
+85,292,82,2023-11-18,2023-11-21,Cancelled,25 Oneill Place,South Bend,Indiana,46699,Express
+86,405,41,2022-03-01,2022-03-04,Shipped,90745 Ludington Center,Houston,Texas,77245,Standard
+87,253,6,2021-08-17,2021-08-20,Cancelled,1847 Graceland Alley,Brooklyn,New York,11231,Overnight
+88,471,64,2024-04-03,2024-04-06,Returned,52977 Vermont Court,Tulsa,Oklahoma,74141,Overnight
+89,113,90,2024-12-16,2024-12-19,Shipped,24046 Old Shore Terrace,Bronx,New York,10459,Standard
+90,28,37,2024-04-05,2024-04-08,Shipped,52807 Morning Street,Austin,Texas,78783,Standard
+91,76,30,2021-03-13,2021-03-16,Returned,56 Crest Line Lane,Mobile,Alabama,36610,Express
+92,233,56,2025-03-23,2025-03-26,Returned,9 Elka Point,Bakersfield,California,93399,Standard
+93,55,80,2025-04-09,2025-04-12,Shipped,5 Mallard Place,Dayton,Ohio,45426,Express
+94,93,60,2022-12-04,2022-12-07,Shipped,94151 Mariners Cove Terrace,Shreveport,Louisiana,71161,Overnight
+95,250,35,2023-11-06,2023-11-09,Delivered,88 Surrey Drive,Zephyrhills,Florida,33543,Overnight
+96,111,86,2025-05-26,2025-05-29,Cancelled,7 Thackeray Hill,New York City,New York,10275,Express
+97,546,50,2023-07-22,2023-07-25,Returned,0431 Dixon Way,Salt Lake City,Utah,84199,Standard
+98,399,1,2024-01-14,2024-01-17,Cancelled,105 Judy Point,Mobile,Alabama,36616,Overnight
+99,17,9,2023-02-09,2023-02-12,Delivered,86108 Tony Circle,Long Beach,California,90810,Express
+100,536,28,2023-01-17,2023-01-20,Shipped,20533 Scofield Park,Arlington,Virginia,22244,Overnight
+101,305,62,2021-11-01,2021-11-04,Returned,7113 Ryan Trail,Mobile,Alabama,36610,Standard
+102,463,4,2021-07-10,2021-07-13,Cancelled,8177 Havey Street,Asheville,North Carolina,28805,Express
+103,209,29,2023-08-18,2023-08-21,Shipped,22202 Pearson Circle,Cincinnati,Ohio,45999,Standard
+104,139,57,2024-05-11,2024-05-14,Delivered,75 Muir Street,Chicago,Illinois,60663,Express
+105,445,51,2023-01-02,2023-01-05,Returned,673 Westend Trail,Hartford,Connecticut,6183,Express
+106,252,19,2023-12-12,2023-12-15,Shipped,86 Alpine Road,North Hollywood,California,91616,Express
+107,296,81,2022-07-27,2022-07-30,Cancelled,3823 Prairieview Center,Rochester,New York,14683,Standard
+108,229,74,2021-12-29,2022-01-01,Shipped,9300 Moulton Court,San Bernardino,California,92410,Express
+109,461,19,2022-05-13,2022-05-16,Shipped,30694 Meadow Vale Park,Oklahoma City,Oklahoma,73190,Overnight
+110,248,11,2023-07-18,2023-07-21,Returned,67 Brentwood Way,Fairfield,Connecticut,6825,Express
+111,286,14,2024-07-23,2024-07-26,Delivered,52 Eagan Park,Kansas City,Kansas,66105,Overnight
+112,165,12,2024-10-14,2024-10-17,Returned,37 Ronald Regan Trail,Duluth,Georgia,30195,Standard
+113,84,96,2023-02-04,2023-02-07,Cancelled,3517 Emmet Junction,Lincoln,Nebraska,68524,Express
+114,74,62,2024-03-10,2024-03-13,Delivered,3 Rusk Drive,Portland,Oregon,97201,Overnight
+115,368,51,2022-09-08,2022-09-11,Cancelled,06 Upham Alley,Augusta,Georgia,30911,Standard
+116,97,71,2025-01-07,2025-01-10,Returned,2 Bartillon Hill,Reno,Nevada,89595,Standard
+117,345,23,2023-03-29,2023-04-01,Cancelled,94 Ohio Crossing,Cincinnati,Ohio,45264,Standard
+118,417,81,2025-06-12,2025-06-15,Returned,3 Nova Way,Albuquerque,New Mexico,87195,Standard
+119,404,88,2022-08-10,2022-08-13,Cancelled,49634 Fairfield Pass,Glendale,California,91205,Standard
+120,42,32,2021-07-01,2021-07-04,Cancelled,277 John Wall Trail,Las Vegas,Nevada,89150,Overnight
+121,328,78,2024-02-20,2024-02-23,Shipped,4720 Reinke Alley,Oakland,California,94622,Express
+122,576,86,2022-04-24,2022-04-27,Cancelled,280 Porter Street,Denver,Colorado,80235,Overnight
+123,522,40,2022-03-27,2022-03-30,Cancelled,6 Michigan Lane,San Antonio,Texas,78225,Express
+124,336,43,2025-03-09,2025-03-12,Cancelled,94 Bobwhite Pass,Salt Lake City,Utah,84115,Standard
+125,567,63,2021-07-27,2021-07-30,Shipped,62850 Burning Wood Crossing,Corpus Christi,Texas,78465,Standard
+126,97,11,2022-02-11,2022-02-14,Returned,1226 Sycamore Alley,Phoenix,Arizona,85083,Overnight
+127,397,24,2024-10-30,2024-11-02,Returned,719 Lyons Terrace,Austin,Texas,78749,Standard
+128,464,63,2023-04-15,2023-04-18,Delivered,6 Bunting Court,Augusta,Georgia,30911,Overnight
+129,346,66,2025-02-08,2025-02-11,Delivered,42576 Dryden Parkway,Boise,Idaho,83722,Standard
+130,330,15,2024-12-22,2024-12-25,Delivered,38 Hanson Trail,Pompano Beach,Florida,33075,Standard
+131,12,80,2024-01-18,2024-01-21,Delivered,2 Grim Lane,Indianapolis,Indiana,46295,Express
+132,562,63,2021-07-08,2021-07-11,Delivered,34573 Shopko Drive,Alpharetta,Georgia,30022,Express
+133,156,46,2023-05-05,2023-05-08,Cancelled,89288 Prentice Hill,Chicago,Illinois,60619,Express
+134,77,51,2021-11-06,2021-11-09,Delivered,9 Warner Trail,Orlando,Florida,32891,Express
+135,150,79,2023-03-18,2023-03-21,Cancelled,3869 Tony Junction,New York City,New York,10275,Standard
+136,285,96,2022-11-15,2022-11-18,Delivered,946 Reindahl Circle,Raleigh,North Carolina,27690,Overnight
+137,211,62,2021-09-13,2021-09-16,Shipped,428 Anderson Parkway,Dayton,Ohio,45432,Express
+138,84,88,2023-09-21,2023-09-24,Delivered,436 Dwight Parkway,Billings,Montana,59112,Overnight
+139,353,55,2023-03-19,2023-03-22,Returned,3383 Spohn Place,Santa Ana,California,92705,Express
+140,43,43,2022-01-24,2022-01-27,Cancelled,58 Lukken Drive,Saint Paul,Minnesota,55103,Express
+141,221,47,2022-11-14,2022-11-17,Cancelled,93998 Walton Road,Madison,Wisconsin,53716,Express
+142,389,41,2022-12-11,2022-12-14,Cancelled,207 Westend Park,Charleston,South Carolina,29403,Standard
+143,234,4,2021-01-11,2021-01-14,Returned,226 Lakeland Parkway,Newton,Massachusetts,2458,Overnight
+144,300,78,2022-07-22,2022-07-25,Returned,0 Garrison Drive,Fort Wayne,Indiana,46805,Overnight
+145,12,2,2024-07-27,2024-07-30,Delivered,4066 Eagle Crest Junction,Washington,District of Columbia,20078,Express
+146,278,48,2025-03-30,2025-04-02,Delivered,761 Mandrake Junction,New York City,New York,10090,Overnight
+147,261,19,2023-07-15,2023-07-18,Cancelled,222 Roth Drive,Fort Wayne,Indiana,46896,Standard
+148,286,67,2023-05-23,2023-05-26,Shipped,29543 Fallview Terrace,Dallas,Texas,75246,Overnight
+149,389,33,2024-07-23,2024-07-26,Cancelled,3 Goodland Hill,Champaign,Illinois,61825,Express
+150,333,15,2024-06-29,2024-07-02,Delivered,35176 Orin Crossing,Baton Rouge,Louisiana,70805,Express
+151,600,66,2023-09-20,2023-09-23,Shipped,626 Eliot Pass,Charlotte,North Carolina,28225,Standard
+152,247,69,2022-02-05,2022-02-08,Cancelled,232 Dakota Court,Petaluma,California,94975,Express
+153,109,8,2022-01-19,2022-01-22,Delivered,0 Mallory Point,Fort Smith,Arkansas,72916,Overnight
+154,438,33,2024-09-15,2024-09-18,Delivered,91635 Mallory Circle,Philadelphia,Pennsylvania,19120,Standard
+155,514,87,2024-09-29,2024-10-02,Delivered,6 Harbort Way,Houston,Texas,77228,Express
+156,341,48,2023-06-19,2023-06-22,Cancelled,45778 Birchwood Road,Las Vegas,Nevada,89125,Overnight
+157,450,40,2023-10-02,2023-10-05,Returned,0 Truax Avenue,Bethesda,Maryland,20892,Standard
+158,150,79,2022-09-19,2022-09-22,Delivered,84 Sugar Terrace,Houston,Texas,77030,Express
+159,518,90,2022-01-23,2022-01-26,Returned,80 Warner Point,Nashville,Tennessee,37210,Express
+160,341,41,2021-02-23,2021-02-26,Shipped,9612 Linden Parkway,Atlanta,Georgia,30316,Overnight
+161,431,95,2024-10-22,2024-10-25,Shipped,627 Dryden Alley,Sacramento,California,94280,Express
+162,145,62,2025-05-27,2025-05-30,Shipped,726 Old Shore Crossing,Washington,District of Columbia,20215,Standard
+163,430,5,2025-03-17,2025-03-20,Shipped,8 Northport Circle,Waterloo,Iowa,50706,Standard
+164,60,48,2024-05-20,2024-05-23,Delivered,8 American Center,Washington,District of Columbia,20425,Overnight
+165,241,76,2022-11-01,2022-11-04,Shipped,841 Eagle Crest Crossing,Daytona Beach,Florida,32118,Standard
+166,169,19,2022-01-16,2022-01-19,Returned,4748 Kropf Plaza,Charlotte,North Carolina,28278,Express
+167,200,16,2022-08-10,2022-08-13,Delivered,9 Orin Terrace,Salt Lake City,Utah,84189,Standard
+168,443,95,2023-06-19,2023-06-22,Shipped,8193 Ryan Plaza,Dallas,Texas,75342,Express
+169,377,35,2022-06-03,2022-06-06,Shipped,7248 Pepper Wood Terrace,Galveston,Texas,77554,Overnight
+170,171,100,2022-05-07,2022-05-10,Returned,04 Dennis Drive,Lynchburg,Virginia,24515,Overnight
+171,242,98,2021-04-01,2021-04-04,Returned,702 Esker Terrace,Charlotte,North Carolina,28272,Standard
+172,502,67,2023-03-07,2023-03-10,Returned,76080 Jackson Street,Buffalo,New York,14233,Standard
+173,203,6,2021-03-18,2021-03-21,Returned,8 Summit Plaza,Dayton,Ohio,45490,Standard
+174,5,92,2023-08-26,2023-08-29,Returned,09 Hudson Pass,San Francisco,California,94132,Standard
+175,575,97,2022-01-18,2022-01-21,Delivered,5741 La Follette Terrace,Topeka,Kansas,66622,Express
+176,277,75,2023-10-13,2023-10-16,Shipped,3 Milwaukee Court,Birmingham,Alabama,35290,Overnight
+177,557,41,2024-06-05,2024-06-08,Delivered,36 Anniversary Crossing,Charlotte,North Carolina,28210,Express
+178,371,72,2023-06-30,2023-07-03,Shipped,13399 Wayridge Street,Columbus,Ohio,43215,Express
+179,276,70,2024-07-10,2024-07-13,Shipped,8132 Mayfield Circle,San Jose,California,95155,Express
+180,577,45,2024-01-29,2024-02-01,Cancelled,91 Hintze Point,Fargo,North Dakota,58106,Express
+181,87,74,2023-05-12,2023-05-15,Delivered,532 Petterle Lane,Boise,Idaho,83711,Overnight
+182,140,48,2025-03-23,2025-03-26,Cancelled,71636 Eagan Park,Chicago,Illinois,60614,Overnight
+183,139,12,2023-12-21,2023-12-24,Returned,2920 Dixon Alley,Des Moines,Iowa,50335,Express
+184,309,38,2021-02-26,2021-03-01,Delivered,788 Alpine Plaza,Amarillo,Texas,79188,Overnight
+185,49,5,2024-05-24,2024-05-27,Delivered,39 Farwell Avenue,Columbia,South Carolina,29240,Standard
+186,251,42,2023-11-04,2023-11-07,Shipped,3938 Eggendart Plaza,Winston Salem,North Carolina,27105,Standard
+187,196,85,2023-06-20,2023-06-23,Delivered,9 Judy Center,Charlotte,North Carolina,28289,Overnight
+188,339,1,2021-07-11,2021-07-14,Returned,6 Delladonna Hill,Jacksonville,Florida,32255,Overnight
+189,519,82,2023-11-07,2023-11-10,Delivered,56381 Mockingbird Place,Phoenix,Arizona,85025,Standard
+190,481,62,2025-03-27,2025-03-30,Delivered,37054 Blue Bill Park Pass,Huntington,West Virginia,25721,Overnight
+191,470,11,2023-04-09,2023-04-12,Returned,37879 Algoma Junction,Huntington,West Virginia,25711,Overnight
+192,132,70,2023-03-07,2023-03-10,Delivered,617 Clove Center,Las Vegas,Nevada,89140,Express
+193,294,88,2023-02-08,2023-02-11,Returned,13 Leroy Place,Dallas,Texas,75216,Express
+194,72,36,2025-05-12,2025-05-15,Cancelled,917 Spenser Plaza,Salt Lake City,Utah,84170,Overnight
+195,449,81,2025-03-20,2025-03-23,Shipped,31904 Nevada Court,Trenton,New Jersey,8603,Overnight
+196,87,70,2022-11-14,2022-11-17,Cancelled,44 Butterfield Way,Hamilton,Ohio,45020,Overnight
+197,477,5,2025-06-18,2025-06-21,Cancelled,5 Dahle Place,Saint Petersburg,Florida,33710,Overnight
+198,578,95,2022-04-08,2022-04-11,Cancelled,35 Bashford Road,Orlando,Florida,32859,Overnight
+199,423,72,2022-08-04,2022-08-07,Delivered,15626 Bowman Point,Atlanta,Georgia,31106,Overnight
+200,465,55,2024-12-04,2024-12-07,Delivered,466 Melody Way,Washington,District of Columbia,20397,Overnight
+201,593,19,2021-12-30,2022-01-02,Cancelled,5258 American Junction,Aurora,Colorado,80044,Overnight
+202,481,29,2022-12-13,2022-12-16,Returned,0 Sunbrook Avenue,Buffalo,New York,14276,Standard
+203,558,80,2025-01-04,2025-01-07,Delivered,0 Dunning Alley,Albany,New York,12210,Standard
+204,421,99,2022-12-01,2022-12-04,Shipped,549 Center Park,New York City,New York,10131,Overnight
+205,566,27,2021-11-05,2021-11-08,Returned,6 Blaine Park,Spokane,Washington,99205,Overnight
+206,389,8,2024-05-07,2024-05-10,Shipped,767 Rockefeller Plaza,Sarasota,Florida,34276,Standard
+207,432,79,2022-11-12,2022-11-15,Delivered,5655 Fairview Circle,Reston,Virginia,20195,Overnight
+208,215,64,2022-10-19,2022-10-22,Shipped,20 Golf View Point,Lancaster,California,93584,Standard
+209,480,85,2024-02-18,2024-02-21,Delivered,5 Bluestem Parkway,Gulfport,Mississippi,39505,Standard
+210,27,93,2021-02-07,2021-02-10,Delivered,245 Fallview Alley,Lynchburg,Virginia,24503,Overnight
+211,65,72,2021-06-11,2021-06-14,Returned,919 Clove Place,Bronx,New York,10459,Express
+212,484,84,2022-02-11,2022-02-14,Cancelled,5602 Eliot Alley,Oklahoma City,Oklahoma,73179,Standard
+213,409,19,2023-12-21,2023-12-24,Shipped,116 Pawling Place,Washington,District of Columbia,20238,Overnight
+214,84,19,2023-01-26,2023-01-29,Returned,963 Mcbride Circle,Chicago,Illinois,60681,Standard
+215,328,40,2023-04-28,2023-05-01,Returned,48862 Helena Junction,Columbus,Ohio,43204,Express
+216,3,93,2025-05-29,2025-06-01,Returned,69920 Burrows Terrace,Pittsburgh,Pennsylvania,15266,Standard
+217,63,62,2024-10-17,2024-10-20,Returned,05 Cody Terrace,Plano,Texas,75074,Express
+218,174,43,2024-07-14,2024-07-17,Returned,00 Basil Terrace,Tucson,Arizona,85705,Overnight
+219,343,61,2023-04-20,2023-04-23,Returned,49 Mockingbird Way,New York City,New York,10099,Overnight
+220,349,9,2023-01-25,2023-01-28,Returned,19 Melby Place,El Paso,Texas,79911,Standard
+221,34,31,2025-05-17,2025-05-20,Cancelled,6339 Bunker Hill Lane,Cincinnati,Ohio,45228,Overnight
+222,426,19,2022-09-26,2022-09-29,Shipped,66555 Stoughton Street,Shawnee Mission,Kansas,66205,Overnight
+223,427,13,2022-06-30,2022-07-03,Cancelled,3 Summer Ridge Terrace,Brooklyn,New York,11215,Standard
+224,16,87,2025-04-01,2025-04-04,Shipped,601 Eagan Avenue,New York City,New York,10014,Express
+225,396,56,2024-02-02,2024-02-05,Cancelled,46 Kipling Circle,San Luis Obispo,California,93407,Standard
+226,395,87,2025-06-30,2025-07-03,Returned,777 Kennedy Street,Raleigh,North Carolina,27658,Express
+227,294,68,2021-06-20,2021-06-23,Delivered,6182 Scofield Avenue,Orlando,Florida,32819,Standard
+228,77,26,2024-10-19,2024-10-22,Delivered,9 Saint Paul Lane,Des Moines,Iowa,50347,Standard
+229,533,80,2021-05-21,2021-05-24,Shipped,21 Towne Court,Los Angeles,California,90055,Standard
+230,177,84,2025-04-12,2025-04-15,Returned,9 Blackbird Terrace,Grand Forks,North Dakota,58207,Overnight
+231,250,94,2025-02-04,2025-02-07,Cancelled,6 Golf Drive,Aurora,Colorado,80015,Standard
+232,135,31,2025-01-24,2025-01-27,Delivered,2019 Macpherson Trail,Columbia,South Carolina,29225,Express
+233,188,63,2023-07-27,2023-07-30,Delivered,6 Sutteridge Park,Birmingham,Alabama,35231,Overnight
+234,447,83,2022-11-21,2022-11-24,Shipped,4324 Nancy Street,Indianapolis,Indiana,46266,Overnight
+235,119,70,2025-07-29,2025-08-01,Delivered,93310 Columbus Drive,Colorado Springs,Colorado,80940,Standard
+236,535,9,2021-02-21,2021-02-24,Returned,32 Mayfield Park,Sunnyvale,California,94089,Express
+237,525,8,2023-11-15,2023-11-18,Returned,2697 Nova Place,Memphis,Tennessee,38126,Standard
+238,19,31,2025-05-11,2025-05-14,Returned,16 Nobel Trail,Miami,Florida,33142,Standard
+239,358,93,2022-12-03,2022-12-06,Delivered,6729 Amoth Plaza,Charleston,West Virginia,25331,Overnight
+240,424,79,2021-09-13,2021-09-16,Returned,39 Hanson Court,Gary,Indiana,46406,Standard
+241,227,78,2022-01-20,2022-01-23,Delivered,2250 Lighthouse Bay Junction,Saint Paul,Minnesota,55127,Express
+242,220,31,2022-10-10,2022-10-13,Shipped,0367 Sugar Place,Los Angeles,California,90045,Express
+243,508,82,2021-10-29,2021-11-01,Returned,7061 Red Cloud Street,Minneapolis,Minnesota,55458,Overnight
+244,220,33,2024-04-06,2024-04-09,Delivered,1509 Gateway Plaza,El Paso,Texas,79945,Standard
+245,261,82,2022-12-10,2022-12-13,Cancelled,90425 Loomis Avenue,Elmira,New York,14905,Express
+246,185,35,2021-05-20,2021-05-23,Delivered,7 Harper Hill,Bradenton,Florida,34282,Standard
+247,92,15,2023-03-11,2023-03-14,Delivered,215 Welch Parkway,San Diego,California,92170,Overnight
+248,165,81,2024-10-02,2024-10-05,Returned,30 Stuart Lane,Cincinnati,Ohio,45254,Standard
+249,69,40,2023-03-21,2023-03-24,Returned,80 Gateway Lane,Saint Petersburg,Florida,33715,Standard
+250,137,39,2023-03-31,2023-04-03,Returned,8 Dovetail Court,Lafayette,Louisiana,70593,Overnight
+251,297,76,2022-10-22,2022-10-25,Returned,57202 Manitowish Drive,Fort Worth,Texas,76162,Standard
+252,220,99,2022-12-17,2022-12-20,Cancelled,7 Ryan Hill,Newark,New Jersey,7195,Standard
+253,193,39,2022-12-08,2022-12-11,Returned,009 Karstens Park,Sioux Falls,South Dakota,57188,Standard
+254,559,90,2023-07-19,2023-07-22,Returned,4 Porter Center,Sioux City,Iowa,51105,Standard
+255,541,95,2024-03-07,2024-03-10,Cancelled,69689 West Place,Los Angeles,California,90015,Standard
+256,531,95,2022-06-17,2022-06-20,Delivered,92 Susan Center,Dallas,Texas,75310,Overnight
+257,318,99,2022-07-26,2022-07-29,Shipped,25343 Clemons Parkway,Sacramento,California,95818,Overnight
+258,516,24,2021-03-21,2021-03-24,Delivered,769 Drewry Way,Huntington,West Virginia,25709,Express
+259,143,27,2023-09-11,2023-09-14,Returned,259 Parkside Lane,North Hollywood,California,91606,Overnight
+260,114,38,2022-11-01,2022-11-04,Returned,6425 Talisman Road,Pittsburgh,Pennsylvania,15261,Overnight
+261,96,28,2025-06-17,2025-06-20,Cancelled,806 Esker Pass,Portland,Oregon,97271,Express
+262,354,16,2023-12-24,2023-12-27,Delivered,87802 Golf Course Place,Orlando,Florida,32803,Overnight
+263,467,11,2022-04-04,2022-04-07,Shipped,2 Leroy Place,Springfield,Illinois,62705,Standard
+264,8,67,2023-10-15,2023-10-18,Cancelled,65 Ilene Plaza,New York City,New York,10090,Overnight
+265,592,20,2022-11-24,2022-11-27,Returned,1 Dakota Parkway,Canton,Ohio,44710,Standard
+266,122,52,2022-01-16,2022-01-19,Delivered,4 Talmadge Trail,Peoria,Illinois,61614,Express
+267,102,87,2022-02-12,2022-02-15,Returned,96 Manley Lane,Sacramento,California,95818,Standard
+268,428,27,2021-01-08,2021-01-11,Shipped,2572 Fulton Alley,Huntington Beach,California,92648,Standard
+269,257,43,2025-05-06,2025-05-09,Cancelled,3 Sullivan Pass,Decatur,Illinois,62525,Express
+270,414,74,2021-05-29,2021-06-01,Returned,2 Park Meadow Parkway,Jamaica,New York,11436,Overnight
+271,497,95,2023-10-26,2023-10-29,Cancelled,66013 Pepper Wood Parkway,Harrisburg,Pennsylvania,17126,Standard
+272,16,34,2022-02-21,2022-02-24,Cancelled,9 High Crossing Hill,Salt Lake City,Utah,84115,Express
+273,543,56,2021-10-28,2021-10-31,Cancelled,8252 Arrowood Crossing,Montgomery,Alabama,36104,Standard
+274,421,83,2024-09-03,2024-09-06,Delivered,91073 Ridgeview Terrace,North Port,Florida,34290,Standard
+275,600,46,2023-05-04,2023-05-07,Returned,61 Declaration Circle,Charlotte,North Carolina,28242,Express
+276,337,59,2023-12-13,2023-12-16,Delivered,3610 Annamark Place,Largo,Florida,34643,Overnight
+277,247,13,2023-05-19,2023-05-22,Cancelled,21528 Oriole Court,Hyattsville,Maryland,20784,Standard
+278,123,88,2023-01-08,2023-01-11,Returned,8293 Myrtle Junction,Wilmington,Delaware,19892,Express
+279,343,27,2021-08-06,2021-08-09,Delivered,815 Kings Point,Montgomery,Alabama,36119,Standard
+280,402,79,2022-01-14,2022-01-17,Delivered,8135 Utah Point,Oklahoma City,Oklahoma,73124,Standard
+281,141,7,2021-10-12,2021-10-15,Returned,3 Vera Park,Corpus Christi,Texas,78405,Standard
+282,129,15,2024-03-10,2024-03-13,Delivered,75264 Pond Circle,Fairbanks,Alaska,99709,Overnight
+283,412,44,2022-09-06,2022-09-09,Returned,3 Lakewood Gardens Court,Colorado Springs,Colorado,80905,Standard
+284,408,38,2023-03-01,2023-03-04,Cancelled,54 Valley Edge Terrace,Jacksonville,Florida,32215,Standard
+285,19,28,2024-08-08,2024-08-11,Returned,8 Hudson Way,Nashville,Tennessee,37250,Overnight
+286,111,33,2023-05-16,2023-05-19,Cancelled,9 Ohio Circle,San Francisco,California,94142,Overnight
+287,89,48,2022-09-14,2022-09-17,Delivered,9 Eliot Plaza,Provo,Utah,84605,Overnight
+288,444,36,2022-10-26,2022-10-29,Cancelled,498 Hermina Circle,Los Angeles,California,90094,Express
+289,20,88,2024-09-07,2024-09-10,Delivered,466 Hollow Ridge Road,Columbia,South Carolina,29220,Overnight
+290,154,11,2024-01-13,2024-01-16,Returned,82 Londonderry Road,Pinellas Park,Florida,34665,Express
+291,387,60,2023-01-26,2023-01-29,Returned,4 Walton Alley,El Paso,Texas,88541,Overnight
+292,354,70,2022-10-24,2022-10-27,Cancelled,942 Longview Plaza,Richmond,Virginia,23237,Express
+293,391,21,2025-01-01,2025-01-04,Returned,69 Eggendart Point,Spokane,Washington,99210,Express
+294,366,42,2021-09-26,2021-09-29,Cancelled,10 Nancy Point,Detroit,Michigan,48224,Express
+295,433,3,2025-01-02,2025-01-05,Delivered,22 Porter Road,Kalamazoo,Michigan,49006,Standard
+296,103,57,2022-08-28,2022-08-31,Returned,99 Crowley Place,Whittier,California,90605,Express
+297,16,45,2021-09-08,2021-09-11,Returned,839 Waubesa Point,Tampa,Florida,33633,Standard
+298,11,36,2022-12-16,2022-12-19,Returned,28802 Declaration Alley,New York City,New York,10270,Express
+299,186,58,2023-09-20,2023-09-23,Returned,84359 Beilfuss Court,Chicago,Illinois,60652,Standard
+300,572,78,2025-02-07,2025-02-10,Cancelled,015 Russell Trail,Champaign,Illinois,61825,Express
+301,541,13,2021-04-28,2021-05-01,Returned,15 Oak Alley,Birmingham,Alabama,35263,Overnight
+302,446,79,2023-02-01,2023-02-04,Returned,8767 Comanche Alley,Denver,Colorado,80249,Standard
+303,461,10,2023-08-20,2023-08-23,Delivered,5 Lakewood Gardens Street,New Haven,Connecticut,6533,Express
+304,145,48,2023-09-14,2023-09-17,Returned,1041 Lyons Court,Newport News,Virginia,23612,Express
+305,375,55,2023-04-06,2023-04-09,Shipped,04 Doe Crossing Circle,Myrtle Beach,South Carolina,29579,Express
+306,104,45,2024-06-25,2024-06-28,Delivered,8 Bonner Court,El Paso,Texas,88541,Overnight
+307,511,93,2023-03-14,2023-03-17,Shipped,63661 Summerview Way,Peoria,Illinois,61614,Express
+308,13,34,2023-03-22,2023-03-25,Delivered,1 Luster Court,Tulsa,Oklahoma,74149,Standard
+309,128,50,2024-03-21,2024-03-24,Delivered,8883 Bellgrove Point,West Palm Beach,Florida,33411,Overnight
+310,350,80,2021-09-16,2021-09-19,Returned,68135 Luster Drive,Norman,Oklahoma,73071,Express
+311,53,71,2024-01-18,2024-01-21,Returned,87 Springs Pass,Young America,Minnesota,55551,Standard
+312,474,71,2022-05-31,2022-06-03,Cancelled,58 Transport Terrace,Ocala,Florida,34479,Standard
+313,114,33,2024-06-03,2024-06-06,Shipped,7807 Monica Drive,Ogden,Utah,84409,Overnight
+314,70,88,2023-09-06,2023-09-09,Shipped,52 Mayfield Hill,Charlotte,North Carolina,28210,Express
+315,589,22,2025-02-09,2025-02-12,Cancelled,657 Gulseth Park,Springfield,Illinois,62764,Standard
+316,247,54,2021-05-01,2021-05-04,Shipped,3 Fallview Circle,Falls Church,Virginia,22047,Express
+317,197,86,2021-10-07,2021-10-10,Shipped,48 Hovde Terrace,Atlanta,Georgia,30386,Overnight
+318,151,43,2025-01-09,2025-01-12,Shipped,49 Sherman Avenue,Topeka,Kansas,66642,Overnight
+319,499,91,2023-09-14,2023-09-17,Returned,0964 Caliangt Center,Charleston,West Virginia,25305,Standard
+320,556,80,2024-08-15,2024-08-18,Cancelled,81266 Del Mar Court,Cincinnati,Ohio,45208,Overnight
+321,500,35,2023-12-25,2023-12-28,Shipped,72 Helena Point,Greeley,Colorado,80638,Express
+322,152,98,2021-04-20,2021-04-23,Returned,882 Mosinee Park,Fort Lauderdale,Florida,33315,Standard
+323,254,48,2023-01-06,2023-01-09,Shipped,95448 Meadow Ridge Junction,Syracuse,New York,13224,Express
+324,221,34,2023-06-17,2023-06-20,Cancelled,70646 Carey Hill,Seattle,Washington,98140,Overnight
+325,398,63,2022-07-03,2022-07-06,Shipped,10661 Heffernan Trail,Little Rock,Arkansas,72215,Standard
+326,503,70,2021-03-06,2021-03-09,Delivered,6 Prairie Rose Trail,Fort Lauderdale,Florida,33325,Express
+327,63,22,2022-01-03,2022-01-06,Returned,10219 Fulton Way,Stamford,Connecticut,6922,Standard
+328,309,6,2021-05-13,2021-05-16,Cancelled,16 Randy Plaza,Portland,Oregon,97201,Express
+329,195,68,2024-03-17,2024-03-20,Cancelled,85 Waywood Park,Naples,Florida,34102,Express
+330,204,62,2024-08-13,2024-08-16,Shipped,3 Waxwing Trail,Seattle,Washington,98109,Standard
+331,8,26,2021-08-04,2021-08-07,Cancelled,874 Oak Terrace,Jamaica,New York,11470,Express
+332,288,40,2024-04-23,2024-04-26,Delivered,2473 Fallview Point,Austin,Texas,78721,Express
+333,161,42,2022-07-13,2022-07-16,Cancelled,3036 Mendota Park,Bakersfield,California,93311,Express
+334,546,6,2023-11-03,2023-11-06,Delivered,47 Briar Crest Crossing,San Antonio,Texas,78296,Overnight
+335,442,13,2024-04-30,2024-05-03,Cancelled,1 South Street,Lexington,Kentucky,40510,Standard
+336,466,81,2022-03-04,2022-03-07,Cancelled,49 Westridge Parkway,Schenectady,New York,12325,Overnight
+337,415,42,2024-06-27,2024-06-30,Cancelled,65749 Maywood Plaza,Fort Worth,Texas,76134,Overnight
+338,158,44,2025-03-11,2025-03-14,Delivered,87764 Doe Crossing Street,Dallas,Texas,75277,Express
+339,470,53,2022-06-25,2022-06-28,Cancelled,8 Farragut Trail,Tacoma,Washington,98405,Express
+340,110,22,2023-10-30,2023-11-02,Delivered,872 Old Shore Drive,Boston,Massachusetts,2283,Express
+341,475,79,2021-06-07,2021-06-10,Shipped,0798 Debra Hill,Sacramento,California,95813,Standard
+342,481,12,2024-09-06,2024-09-09,Shipped,5 Manley Lane,Harrisburg,Pennsylvania,17110,Express
+343,389,88,2024-10-16,2024-10-19,Returned,75 Jenna Drive,Corpus Christi,Texas,78470,Standard
+344,67,26,2021-04-21,2021-04-24,Returned,95 Bay Pass,Birmingham,Alabama,35263,Overnight
+345,550,61,2023-01-11,2023-01-14,Delivered,1670 Dennis Trail,Louisville,Kentucky,40287,Overnight
+346,295,19,2022-10-03,2022-10-06,Returned,437 Spenser Parkway,Columbus,Ohio,43226,Standard
+347,195,98,2023-12-29,2024-01-01,Returned,8207 Jackson Crossing,Charlotte,North Carolina,28299,Express
+348,106,74,2021-05-02,2021-05-05,Delivered,78571 Fremont Point,Norfolk,Virginia,23520,Express
+349,66,88,2025-05-22,2025-05-25,Shipped,531 Tony Hill,Hartford,Connecticut,6152,Overnight
+350,492,78,2022-06-06,2022-06-09,Shipped,087 Arapahoe Road,Saint Louis,Missouri,63131,Overnight
+351,75,64,2023-12-02,2023-12-05,Shipped,67 Kingsford Plaza,Miami,Florida,33147,Overnight
+352,85,73,2025-07-14,2025-07-17,Cancelled,530 Village Way,Washington,District of Columbia,20310,Express
+353,88,31,2023-07-28,2023-07-31,Returned,68748 Melby Alley,Charlotte,North Carolina,28230,Standard
+354,559,57,2023-07-22,2023-07-25,Cancelled,9 Hauk Hill,Fresno,California,93773,Overnight
+355,291,65,2023-03-11,2023-03-14,Cancelled,22148 Huxley Avenue,Lincoln,Nebraska,68505,Overnight
+356,577,75,2024-01-27,2024-01-30,Shipped,002 Memorial Junction,Portland,Oregon,97286,Standard
+357,243,19,2023-07-22,2023-07-25,Shipped,82 Arizona Alley,Lakeland,Florida,33811,Express
+358,479,8,2024-04-21,2024-04-24,Shipped,7010 Bellgrove Lane,Wilmington,Delaware,19892,Standard
+359,223,11,2021-02-09,2021-02-12,Delivered,5856 Summerview Drive,Tampa,Florida,33694,Overnight
+360,573,55,2021-09-27,2021-09-30,Shipped,84267 Dennis Road,Louisville,Kentucky,40225,Express
+361,290,7,2022-09-29,2022-10-02,Delivered,77 Grayhawk Way,Charleston,West Virginia,25313,Express
+362,598,19,2023-03-09,2023-03-12,Shipped,742 Tennessee Circle,Milwaukee,Wisconsin,53205,Express
+363,292,31,2024-02-13,2024-02-16,Shipped,4288 Ruskin Circle,Springfield,Missouri,65898,Express
+364,137,89,2025-06-08,2025-06-11,Delivered,656 Lake View Terrace,San Bernardino,California,92405,Overnight
+365,526,52,2024-01-01,2024-01-04,Returned,538 Packers Hill,Nashville,Tennessee,37240,Standard
+366,278,12,2023-11-20,2023-11-23,Returned,3804 Kropf Hill,Fresno,California,93704,Standard
+367,515,16,2021-12-23,2021-12-26,Delivered,86 Larry Drive,Anchorage,Alaska,99522,Standard
+368,43,29,2025-05-01,2025-05-04,Delivered,504 Daystar Pass,Shawnee Mission,Kansas,66225,Express
+369,317,9,2021-05-11,2021-05-14,Returned,47505 Spohn Point,Missoula,Montana,59806,Standard
+370,12,15,2021-10-16,2021-10-19,Cancelled,4 6th Junction,Mobile,Alabama,36641,Standard
+371,244,48,2024-03-23,2024-03-26,Cancelled,36018 Fordem Court,Conroe,Texas,77305,Express
+372,323,97,2023-01-06,2023-01-09,Cancelled,40207 Clarendon Terrace,Rockville,Maryland,20851,Express
+373,279,67,2021-10-17,2021-10-20,Cancelled,5071 Sachs Junction,Pittsburgh,Pennsylvania,15274,Overnight
+374,276,93,2024-03-27,2024-03-30,Cancelled,8981 Evergreen Trail,New Castle,Pennsylvania,16107,Express
+375,5,79,2023-09-17,2023-09-20,Shipped,651 Warrior Trail,Oklahoma City,Oklahoma,73104,Overnight
+376,113,6,2021-10-10,2021-10-13,Delivered,62885 Southridge Plaza,Fort Myers,Florida,33913,Express
+377,566,54,2021-05-03,2021-05-06,Returned,8454 Elgar Center,Minneapolis,Minnesota,55417,Standard
+378,345,18,2023-01-23,2023-01-26,Returned,23443 Superior Pass,Houston,Texas,77255,Express
+379,73,82,2024-02-06,2024-02-09,Shipped,9832 Blue Bill Park Hill,Columbia,South Carolina,29240,Overnight
+380,136,93,2022-01-30,2022-02-02,Returned,3 Crowley Circle,Washington,District of Columbia,20470,Standard
+381,508,65,2021-06-23,2021-06-26,Shipped,20179 Northridge Junction,Charlotte,North Carolina,28225,Standard
+382,512,67,2024-05-10,2024-05-13,Delivered,54 Thompson Hill,Amarillo,Texas,79165,Express
+383,91,49,2021-12-15,2021-12-18,Cancelled,90667 Spenser Point,Reno,Nevada,89519,Overnight
+384,466,29,2024-02-07,2024-02-10,Cancelled,78 Center Crossing,Sacramento,California,95833,Express
+385,170,60,2024-12-04,2024-12-07,Returned,7 Nancy Parkway,Omaha,Nebraska,68105,Overnight
+386,83,27,2024-03-19,2024-03-22,Shipped,784 Straubel Drive,New York City,New York,10170,Express
+387,120,24,2024-02-20,2024-02-23,Shipped,25 Sachtjen Road,Orange,California,92668,Standard
+388,513,96,2021-06-11,2021-06-14,Cancelled,566 Mifflin Pass,Asheville,North Carolina,28815,Express
+389,439,12,2024-03-03,2024-03-06,Returned,5418 Rockefeller Parkway,Lexington,Kentucky,40524,Overnight
+390,407,45,2023-12-31,2024-01-03,Shipped,5 Harbort Junction,Savannah,Georgia,31416,Express
+391,473,76,2023-04-05,2023-04-08,Cancelled,59677 Crest Line Plaza,Erie,Pennsylvania,16505,Standard
+392,580,18,2024-11-21,2024-11-24,Delivered,037 Quincy Plaza,Chicago,Illinois,60663,Standard
+393,229,85,2025-07-03,2025-07-06,Shipped,46505 Badeau Junction,Louisville,Kentucky,40256,Express
+394,454,70,2023-08-17,2023-08-20,Returned,1 Myrtle Alley,Muncie,Indiana,47306,Standard
+395,293,72,2021-07-29,2021-08-01,Returned,50 Shasta Road,Pensacola,Florida,32511,Overnight
+396,68,73,2021-04-13,2021-04-16,Shipped,2 Nancy Plaza,San Diego,California,92165,Express
+397,377,45,2022-08-09,2022-08-12,Cancelled,471 Debra Circle,Lancaster,Pennsylvania,17605,Express
+398,374,68,2024-10-02,2024-10-05,Cancelled,87 Laurel Court,Saginaw,Michigan,48604,Overnight
+399,212,50,2023-03-17,2023-03-20,Returned,23 Nobel Place,Sacramento,California,95865,Express
+400,585,16,2023-06-17,2023-06-20,Returned,483 Graceland Center,Flint,Michigan,48550,Express
+401,409,57,2021-03-14,2021-03-17,Cancelled,5570 Badeau Road,Dayton,Ohio,45414,Standard
+402,481,29,2023-10-16,2023-10-19,Returned,1709 Forest Dale Center,Utica,New York,13505,Overnight
+403,159,33,2025-02-12,2025-02-15,Delivered,8 Riverside Way,Boulder,Colorado,80310,Overnight
+404,296,22,2021-01-28,2021-01-31,Shipped,63 Dapin Lane,Birmingham,Alabama,35254,Standard
+405,288,11,2021-09-17,2021-09-20,Shipped,85265 Kennedy Way,Stockton,California,95205,Standard
+406,208,57,2023-01-07,2023-01-10,Returned,0 Stoughton Lane,Brooklyn,New York,11247,Standard
+407,396,67,2023-08-23,2023-08-26,Cancelled,7195 Mcguire Pass,Lexington,Kentucky,40576,Overnight
+408,515,1,2022-07-23,2022-07-26,Delivered,87 Warrior Avenue,Albany,New York,12247,Standard
+409,311,78,2021-01-10,2021-01-13,Cancelled,2339 Browning Terrace,Great Neck,New York,11024,Express
+410,317,83,2023-12-20,2023-12-23,Delivered,4 Cherokee Alley,Nashville,Tennessee,37240,Standard
+411,274,18,2022-08-29,2022-09-01,Delivered,196 Parkside Alley,Knoxville,Tennessee,37914,Overnight
+412,117,69,2025-04-28,2025-05-01,Shipped,34 Dakota Alley,Staten Island,New York,10305,Standard
+413,385,98,2023-12-06,2023-12-09,Cancelled,89624 Lukken Lane,Minneapolis,Minnesota,55448,Overnight
+414,123,87,2023-10-19,2023-10-22,Delivered,70368 New Castle Place,Largo,Florida,34643,Standard
+415,2,13,2024-03-02,2024-03-05,Shipped,745 Main Terrace,Fort Wayne,Indiana,46805,Express
+416,71,14,2025-07-25,2025-07-28,Returned,3716 Mayfield Avenue,Wilmington,North Carolina,28405,Standard
+417,80,73,2024-09-01,2024-09-04,Shipped,0 Springview Street,South Bend,Indiana,46614,Overnight
+418,291,12,2022-05-04,2022-05-07,Returned,508 Stoughton Point,Houston,Texas,77245,Overnight
+419,427,29,2025-07-14,2025-07-17,Cancelled,29 Kropf Lane,Denver,Colorado,80228,Express
+420,419,7,2023-10-09,2023-10-12,Shipped,51 Del Sol Circle,Albuquerque,New Mexico,87190,Express
+421,531,63,2024-09-07,2024-09-10,Returned,365 Emmet Alley,Boulder,Colorado,80328,Overnight
+422,66,54,2021-11-20,2021-11-23,Shipped,10965 Tomscot Hill,Spokane,Washington,99220,Overnight
+423,441,31,2024-03-03,2024-03-06,Delivered,46 Bunker Hill Avenue,Boston,Massachusetts,2124,Express
+424,159,37,2022-12-20,2022-12-23,Shipped,18292 Pine View Trail,Chicago,Illinois,60697,Standard
+425,67,58,2022-11-15,2022-11-18,Returned,0 Fordem Way,Flint,Michigan,48505,Overnight
+426,494,74,2023-03-22,2023-03-25,Delivered,2 Jenna Drive,San Diego,California,92110,Standard
+427,131,51,2024-05-06,2024-05-09,Shipped,987 Old Shore Terrace,El Paso,Texas,88535,Overnight
+428,259,71,2023-02-06,2023-02-09,Cancelled,548 Hoard Parkway,Tulsa,Oklahoma,74108,Standard
+429,529,54,2024-06-20,2024-06-23,Delivered,089 Pine View Street,Louisville,Kentucky,40233,Overnight
+430,370,87,2023-01-02,2023-01-05,Cancelled,615 Birchwood Junction,Kansas City,Missouri,64136,Overnight
+431,446,31,2022-11-09,2022-11-12,Cancelled,85416 Kensington Drive,Grand Rapids,Michigan,49518,Overnight
+432,158,86,2024-10-18,2024-10-21,Shipped,947 Northwestern Lane,Las Vegas,Nevada,89166,Standard
+433,336,54,2024-09-30,2024-10-03,Delivered,93 Dennis Avenue,Topeka,Kansas,66617,Express
+434,24,25,2022-09-06,2022-09-09,Delivered,21 Vermont Plaza,Lakeland,Florida,33811,Standard
+435,343,89,2024-12-13,2024-12-16,Returned,532 Tony Place,Washington,District of Columbia,20520,Overnight
+436,217,20,2022-06-23,2022-06-26,Returned,04114 Kings Lane,Waterbury,Connecticut,6705,Overnight
+437,493,16,2025-02-25,2025-02-28,Returned,73378 Harper Center,Phoenix,Arizona,85045,Standard
+438,588,26,2023-05-22,2023-05-25,Returned,76 Pankratz Drive,Valdosta,Georgia,31605,Standard
+439,500,32,2022-10-02,2022-10-05,Cancelled,594 Sage Drive,Savannah,Georgia,31422,Standard
+440,383,2,2025-02-06,2025-02-09,Returned,9525 East Trail,Englewood,Colorado,80150,Standard
+441,174,17,2021-03-19,2021-03-22,Shipped,8 Hanson Point,San Jose,California,95113,Overnight
+442,263,82,2021-06-04,2021-06-07,Cancelled,647 Judy Hill,Columbus,Ohio,43284,Standard
+443,168,94,2021-02-04,2021-02-07,Shipped,74736 Golf View Parkway,San Antonio,Texas,78210,Overnight
+444,443,58,2024-03-27,2024-03-30,Returned,6937 Chive Avenue,Arlington,Virginia,22234,Overnight
+445,583,60,2022-06-21,2022-06-24,Shipped,924 Graedel Junction,Charlotte,North Carolina,28278,Express
+446,350,5,2024-04-02,2024-04-05,Delivered,27986 Monument Drive,Northridge,California,91328,Express
+447,174,25,2025-01-21,2025-01-24,Delivered,5 Granby Street,Portland,Oregon,97211,Express
+448,461,19,2024-03-02,2024-03-05,Shipped,7 Sommers Drive,Sioux Falls,South Dakota,57105,Express
+449,33,8,2025-05-11,2025-05-14,Returned,17282 Main Street,Boca Raton,Florida,33487,Overnight
+450,449,20,2022-07-09,2022-07-12,Cancelled,925 Nobel Drive,Las Vegas,Nevada,89130,Express
+451,444,34,2021-06-11,2021-06-14,Shipped,47743 Morrow Pass,Naples,Florida,33961,Standard
+452,389,7,2025-02-10,2025-02-13,Delivered,2 Messerschmidt Alley,Corpus Christi,Texas,78410,Overnight
+453,141,24,2023-10-18,2023-10-21,Returned,05 Vernon Center,Shawnee Mission,Kansas,66215,Standard
+454,511,84,2024-10-18,2024-10-21,Returned,364 Brown Road,Palatine,Illinois,60078,Express
+455,434,32,2023-03-09,2023-03-12,Delivered,98434 Tony Court,Oxnard,California,93034,Overnight
+456,555,7,2021-04-01,2021-04-04,Returned,3521 Bobwhite Crossing,Saint Petersburg,Florida,33731,Overnight
+457,364,15,2021-05-23,2021-05-26,Delivered,52599 David Avenue,Montgomery,Alabama,36109,Standard
+458,575,50,2022-10-29,2022-11-01,Cancelled,36840 International Point,Lancaster,Pennsylvania,17605,Standard
+459,522,1,2024-11-05,2024-11-08,Cancelled,80 Erie Place,Washington,District of Columbia,20226,Express
+460,444,18,2022-10-17,2022-10-20,Returned,245 Northwestern Park,Pensacola,Florida,32590,Standard
+461,556,70,2025-07-30,2025-08-02,Delivered,4226 Schmedeman Street,Sunnyvale,California,94089,Overnight
+462,102,86,2022-09-24,2022-09-27,Delivered,3 Michigan Plaza,Topeka,Kansas,66642,Standard
+463,528,35,2024-02-26,2024-02-29,Shipped,803 Shelley Point,Monroe,Louisiana,71208,Standard
+464,307,22,2022-03-09,2022-03-12,Cancelled,75 Linden Place,Tucson,Arizona,85748,Overnight
+465,537,5,2024-09-13,2024-09-16,Cancelled,1795 Saint Paul Pass,Lexington,Kentucky,40524,Express
+466,96,72,2022-11-19,2022-11-22,Returned,262 Declaration Place,Atlanta,Georgia,30356,Standard
+467,332,12,2024-12-04,2024-12-07,Returned,3061 Bunker Hill Court,Shreveport,Louisiana,71137,Overnight
+468,89,21,2023-12-25,2023-12-28,Delivered,14857 Ilene Road,Nashville,Tennessee,37210,Standard
+469,278,16,2022-10-30,2022-11-02,Delivered,140 Granby Place,Columbus,Ohio,43284,Overnight
+470,396,68,2024-04-20,2024-04-23,Returned,93621 Bultman Circle,Washington,District of Columbia,20260,Standard
+471,128,82,2024-01-16,2024-01-19,Cancelled,7189 Mcguire Crossing,Lansing,Michigan,48930,Overnight
+472,91,4,2025-06-05,2025-06-08,Returned,75844 Roth Center,Tampa,Florida,33625,Overnight
+473,72,83,2024-04-26,2024-04-29,Delivered,9 Pawling Center,Albuquerque,New Mexico,87140,Standard
+474,274,49,2025-04-07,2025-04-10,Shipped,2651 Jay Hill,Appleton,Wisconsin,54915,Overnight
+475,594,44,2023-03-07,2023-03-10,Delivered,0365 Donald Crossing,Orlando,Florida,32813,Overnight
+476,141,46,2023-09-26,2023-09-29,Returned,3 Hollow Ridge Hill,Las Vegas,Nevada,89125,Overnight
+477,247,55,2021-09-20,2021-09-23,Delivered,07 Trailsway Junction,Nashville,Tennessee,37245,Standard
+478,220,29,2021-12-09,2021-12-12,Shipped,1 Bluestem Plaza,Washington,District of Columbia,20078,Overnight
+479,114,34,2024-01-21,2024-01-24,Delivered,415 Westport Street,Flint,Michigan,48505,Express
+480,289,51,2022-11-26,2022-11-29,Returned,1072 Mariners Cove Terrace,San Antonio,Texas,78285,Standard
+481,202,7,2022-12-06,2022-12-09,Cancelled,21 Troy Center,Atlanta,Georgia,30336,Overnight
+482,212,37,2024-12-26,2024-12-29,Cancelled,617 Goodland Terrace,Baltimore,Maryland,21281,Standard
+483,2,89,2021-01-10,2021-01-13,Returned,7240 Sunfield Pass,Miami,Florida,33147,Standard
+484,428,73,2023-12-06,2023-12-09,Delivered,4 Pond Terrace,Atlanta,Georgia,31136,Express
+485,576,50,2025-07-18,2025-07-21,Returned,986 Pawling Avenue,Bakersfield,California,93381,Overnight
+486,42,35,2022-08-01,2022-08-04,Delivered,28 Hanson Lane,Pensacola,Florida,32520,Standard
+487,342,35,2021-04-20,2021-04-23,Cancelled,47562 Dwight Alley,San Bernardino,California,92415,Overnight
+488,112,62,2021-02-13,2021-02-16,Cancelled,7111 Onsgard Hill,Cincinnati,Ohio,45213,Overnight
+489,81,65,2024-08-22,2024-08-25,Delivered,49186 Warbler Crossing,Augusta,Georgia,30919,Standard
+490,150,93,2023-10-16,2023-10-19,Returned,44 Nelson Avenue,Green Bay,Wisconsin,54313,Express
+491,89,85,2022-08-11,2022-08-14,Shipped,70 Nevada Center,Carson City,Nevada,89706,Standard
+492,180,93,2023-12-12,2023-12-15,Shipped,3 Commercial Point,Louisville,Kentucky,40256,Express
+493,453,57,2025-01-30,2025-02-02,Cancelled,5 Columbus Circle,El Paso,Texas,79934,Standard
+494,196,77,2023-02-22,2023-02-25,Cancelled,58626 Trailsway Plaza,Miami,Florida,33180,Standard
+495,267,88,2023-09-07,2023-09-10,Shipped,68421 Jenna Plaza,Nashville,Tennessee,37215,Express
+496,336,33,2023-10-03,2023-10-06,Shipped,7 Golf View Hill,Saint Cloud,Minnesota,56398,Express
+497,299,21,2021-07-15,2021-07-18,Shipped,004 Fulton Parkway,Little Rock,Arkansas,72209,Standard
+498,362,19,2021-11-23,2021-11-26,Returned,1 Meadow Valley Pass,Raleigh,North Carolina,27605,Overnight
+499,462,58,2024-08-05,2024-08-08,Shipped,4635 Drewry Street,Greenville,South Carolina,29605,Standard
+500,446,79,2024-03-07,2024-03-10,Cancelled,17050 Clemons Road,Chicago,Illinois,60604,Express
+501,274,12,2021-10-16,2021-10-19,Returned,414 Pleasure Court,Houston,Texas,77035,Standard
+502,301,59,2021-09-18,2021-09-21,Shipped,801 Manley Circle,Portland,Oregon,97271,Overnight
+503,34,67,2024-05-31,2024-06-03,Cancelled,08882 Glendale Center,Nashville,Tennessee,37220,Standard
+504,1,31,2022-07-10,2022-07-13,Returned,3 Westridge Pass,Suffolk,Virginia,23436,Express
+505,251,80,2021-08-31,2021-09-03,Cancelled,673 Lighthouse Bay Way,Baltimore,Maryland,21275,Overnight
+506,452,1,2023-07-20,2023-07-23,Returned,47634 Summit Street,Kalamazoo,Michigan,49048,Express
+507,513,4,2021-05-02,2021-05-05,Returned,5 Truax Street,Washington,District of Columbia,20210,Standard
+508,344,60,2023-01-25,2023-01-28,Delivered,78 Mitchell Plaza,Albany,Georgia,31704,Standard
+509,333,7,2025-04-15,2025-04-18,Delivered,49866 7th Plaza,Memphis,Tennessee,38119,Standard
+510,1,39,2022-07-30,2022-08-02,Cancelled,98561 Washington Trail,Indianapolis,Indiana,46216,Overnight
+511,508,46,2022-05-26,2022-05-29,Shipped,63 Roth Lane,Atlanta,Georgia,31136,Overnight
+512,386,48,2023-10-19,2023-10-22,Cancelled,8547 Havey Crossing,Knoxville,Tennessee,37924,Standard
+513,503,14,2021-04-28,2021-05-01,Shipped,0264 Bellgrove Plaza,El Paso,Texas,79923,Standard
+514,515,49,2024-04-09,2024-04-12,Cancelled,85 Northport Avenue,New Brunswick,New Jersey,8922,Overnight
+515,24,93,2021-10-24,2021-10-27,Returned,05647 Coleman Circle,Sacramento,California,94250,Standard
+516,85,61,2023-02-10,2023-02-13,Cancelled,421 Victoria Trail,San Francisco,California,94154,Express
+517,555,77,2022-11-02,2022-11-05,Shipped,193 Redwing Parkway,Provo,Utah,84605,Express
+518,381,34,2022-12-10,2022-12-13,Delivered,021 Buell Drive,Des Moines,Iowa,50335,Standard
+519,236,25,2024-09-28,2024-10-01,Cancelled,0 Sommers Terrace,Miami,Florida,33283,Standard
+520,319,79,2023-12-02,2023-12-05,Returned,376 High Crossing Parkway,Erie,Pennsylvania,16522,Express
+521,456,70,2022-04-04,2022-04-07,Cancelled,74709 Mifflin Street,Louisville,Kentucky,40298,Overnight
+522,444,56,2023-01-30,2023-02-02,Cancelled,357 Moland Pass,Fort Wayne,Indiana,46867,Overnight
+523,505,41,2024-02-06,2024-02-09,Cancelled,292 Schmedeman Way,Columbus,Ohio,43226,Standard
+524,412,100,2022-09-14,2022-09-17,Delivered,894 Vahlen Hill,Oklahoma City,Oklahoma,73197,Express
+525,588,94,2021-08-01,2021-08-04,Delivered,4235 Calypso Avenue,Albany,New York,12247,Overnight
+526,18,14,2024-06-05,2024-06-08,Delivered,85121 Glacier Hill Crossing,Lake Charles,Louisiana,70616,Overnight
+527,332,11,2024-01-21,2024-01-24,Returned,8 Cherokee Circle,New York City,New York,10019,Standard
+528,476,84,2023-03-23,2023-03-26,Returned,0838 Washington Road,Boston,Massachusetts,2203,Overnight
+529,322,73,2024-09-13,2024-09-16,Returned,0 Roxbury Point,Saint Cloud,Minnesota,56398,Express
+530,461,95,2023-02-15,2023-02-18,Shipped,3 Kropf Alley,Virginia Beach,Virginia,23471,Express
+531,197,84,2022-09-09,2022-09-12,Cancelled,1 Nancy Pass,Lincoln,Nebraska,68517,Express
+532,415,11,2021-03-07,2021-03-10,Delivered,7 Katie Court,Augusta,Georgia,30911,Overnight
+533,310,54,2024-10-11,2024-10-14,Shipped,6 Maywood Avenue,Philadelphia,Pennsylvania,19120,Standard
+534,243,48,2023-05-12,2023-05-15,Returned,724 Kinsman Plaza,Jeffersonville,Indiana,47134,Express
+535,46,9,2022-11-19,2022-11-22,Cancelled,4 Roth Drive,San Bernardino,California,92424,Express
+536,151,44,2025-07-23,2025-07-26,Delivered,250 Bunker Hill Drive,Irvine,California,92710,Overnight
+537,404,16,2023-09-28,2023-10-01,Returned,414 Warner Trail,Boston,Massachusetts,2109,Express
+538,429,98,2024-10-11,2024-10-14,Cancelled,905 Warner Drive,Bronx,New York,10474,Standard
+539,246,42,2023-01-30,2023-02-02,Delivered,7730 Mosinee Parkway,Fort Wayne,Indiana,46896,Standard
+540,436,92,2025-05-13,2025-05-16,Returned,89204 Twin Pines Drive,Washington,District of Columbia,20566,Overnight
+541,126,6,2024-02-08,2024-02-11,Shipped,42677 Old Shore Crossing,Whittier,California,90605,Overnight
+542,552,36,2023-03-11,2023-03-14,Delivered,1 Lakeland Lane,Minneapolis,Minnesota,55480,Standard
+543,318,29,2024-04-06,2024-04-09,Delivered,901 Autumn Leaf Road,Saint Paul,Minnesota,55146,Standard
+544,131,37,2022-08-11,2022-08-14,Shipped,8227 Goodland Alley,Minneapolis,Minnesota,55480,Overnight
+545,503,74,2025-03-27,2025-03-30,Returned,773 Haas Lane,Washington,District of Columbia,20546,Overnight
+546,245,29,2021-04-23,2021-04-26,Shipped,2 Havey Avenue,Chicago,Illinois,60630,Standard
+547,102,14,2021-06-26,2021-06-29,Cancelled,397 Atwood Place,Washington,District of Columbia,20238,Standard
+548,585,64,2023-04-19,2023-04-22,Shipped,9734 Memorial Place,Anchorage,Alaska,99517,Express
+549,229,9,2025-07-31,2025-08-03,Returned,1746 Donald Place,Boulder,Colorado,80305,Standard
+550,345,93,2021-09-23,2021-09-26,Delivered,41354 East Terrace,San Antonio,Texas,78220,Standard

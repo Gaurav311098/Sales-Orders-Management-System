@@ -1,0 +1,101 @@
+employee_id,name,email,phone,department,role,joining_date,status
+1,Nicki Volks,nvolks0@hud.gov,556-583-1389,Sales,Office Assistant III,2024-05-02,Active
+2,Nahum Keggins,nkeggins1@fc2.com,515-342-3062,Sales,Account Representative IV,2023-08-08,Resigned
+3,Ursula Yurygyn,uyurygyn2@bbc.co.uk,475-344-9568,Support,Senior Editor,2022-02-08,Resigned
+4,Germana Pont,gpont3@ebay.co.uk,507-599-3544,Support,Staff Accountant I,2024-10-28,Active
+5,Vite Driffill,vdriffill4@miitbeian.gov.cn,596-165-4454,Support,Senior Developer,2021-04-06,Active
+6,Anne Burrows,aburrows5@bloglovin.com,711-319-9849,Logistics,Tax Accountant,2022-07-16,Resigned
+7,Kerr Fears,kfears6@godaddy.com,742-802-9243,Logistics,Human Resources Manager,2021-04-22,Active
+8,Anneliese Bebbell,abebbell7@trellian.com,332-508-9388,Sales,Pharmacist,2024-09-14,Active
+9,Fred Janczak,fjanczak8@statcounter.com,290-527-3223,Support,Product Engineer,2024-06-07,Active
+10,Ardelis Chisnell,achisnell9@thetimes.co.uk,829-759-8960,Sales,Sales Representative,2022-01-03,Resigned
+11,Mychal Heddon,mheddona@independent.co.uk,412-128-4732,Logistics,Human Resources Manager,2021-02-02,Resigned
+12,Leonore Albery,lalberyb@adobe.com,338-837-3157,Logistics,Research Assistant III,2024-09-30,Resigned
+13,Sarah Penhearow,spenhearowc@people.com.cn,378-395-9079,Support,Nurse Practicioner,2022-12-03,Resigned
+14,Kalli Battram,kbattramd@sina.com.cn,979-850-6552,Support,Nurse,2024-06-20,Resigned
+15,Emlyn Duer,eduere@booking.com,290-498-4160,Logistics,Senior Financial Analyst,2025-02-07,Active
+16,Hedvig Limbrick,hlimbrickf@alibaba.com,161-976-9723,Logistics,Project Manager,2024-12-27,Resigned
+17,Tamarah Woodage,twoodageg@vistaprint.com,318-506-0564,Sales,Statistician I,2022-10-01,Active
+18,Lina Caldes,lcaldesh@ox.ac.uk,230-265-2573,Logistics,Graphic Designer,2022-01-25,Resigned
+19,Elvyn Parsisson,eparsissoni@slate.com,808-763-7690,Logistics,Sales Representative,2024-05-03,Active
+20,Marylynne Caddies,mcaddiesj@a8.net,633-372-8172,Sales,Programmer Analyst I,2021-06-23,Resigned
+21,Duky Hotchkin,dhotchkink@live.com,731-895-4913,Sales,Legal Assistant,2022-02-18,Resigned
+22,Ikey Preto,ipretol@nba.com,522-579-3295,Support,Senior Sales Associate,2023-05-11,Active
+23,Carla Spittall,cspittallm@scientificamerican.com,493-434-3157,Sales,Biostatistician IV,2023-07-15,Active
+24,Maddie Aldrick,maldrickn@squarespace.com,912-820-8467,Logistics,Legal Assistant,2024-04-25,Active
+25,Koenraad Cleatherow,kcleatherowo@umn.edu,148-246-7650,Sales,Legal Assistant,2023-03-05,Active
+26,Oona Brisco,obriscop@craigslist.org,446-775-9224,Sales,Professor,2022-11-28,Resigned
+27,Sissy Swidenbank,sswidenbankq@eventbrite.com,423-314-2214,Support,Accountant II,2021-09-14,Active
+28,Levon Bowring,lbowringr@mozilla.com,793-763-4761,Support,Executive Secretary,2021-08-07,Resigned
+29,Kurtis Eblein,kebleins@wordpress.com,825-771-1981,Support,Account Coordinator,2024-04-19,Resigned
+30,Karry Ferrettino,kferrettinot@patch.com,499-595-2997,Sales,Project Manager,2024-11-11,Resigned
+31,Selinda Quinnet,squinnetu@last.fm,713-580-2095,Support,Nuclear Power Engineer,2025-06-21,Active
+32,Gunar Deeman,gdeemanv@cocolog-nifty.com,919-505-7694,Support,Chemical Engineer,2021-06-16,Resigned
+33,Arnoldo Shakespear,ashakespearw@pagesperso-orange.fr,911-549-8833,Sales,Environmental Tech,2021-08-17,Active
+34,Olive Mincher,omincherx@nhs.uk,512-365-1620,Logistics,Director of Sales,2025-06-14,Active
+35,Mathias Runnett,mrunnetty@wunderground.com,912-496-1292,Support,Financial Advisor,2021-01-28,Active
+36,Paige Hearnah,phearnahz@storify.com,435-939-6567,Support,Design Engineer,2023-03-11,Resigned
+37,Sukey Peel,speel10@slate.com,283-174-7049,Support,Programmer II,2023-03-25,Resigned
+38,Susan Loble,sloble11@simplemachines.org,612-562-3351,Logistics,Research Nurse,2023-12-02,Resigned
+39,Mina Betham,mbetham12@nationalgeographic.com,512-211-9444,Support,Structural Engineer,2023-11-11,Active
+40,Ferrel Kuna,fkuna13@yahoo.com,695-569-4778,Logistics,Assistant Manager,2022-10-08,Active
+41,Jae Mapston,jmapston14@independent.co.uk,573-931-3537,Sales,Research Assistant I,2024-10-28,Active
+42,Janice Corss,jcorss15@live.com,618-312-7784,Logistics,Senior Developer,2021-12-02,Active
+43,Eduard Eskriett,eeskriett16@amazon.co.uk,681-440-3873,Logistics,Engineer III,2021-11-16,Active
+44,Murial Dobrowolski,mdobrowolski17@fastcompany.com,667-149-2688,Support,Professor,2023-10-09,Resigned
+45,Wendell Kippling,wkippling18@twitter.com,252-324-3142,Sales,Recruiting Manager,2024-08-23,Resigned
+46,Ev Robet,erobet19@issuu.com,636-144-3969,Sales,Information Systems Manager,2021-11-09,Active
+47,Sanson MacGuffog,smacguffog1a@engadget.com,699-571-5112,Sales,Senior Sales Associate,2021-05-19,Resigned
+48,Illa Leathard,ileathard1b@sina.com.cn,797-577-6390,Support,Analog Circuit Design manager,2021-03-19,Active
+49,Willy Spraberry,wspraberry1c@friendfeed.com,705-766-1347,Sales,Senior Financial Analyst,2022-03-06,Active
+50,Cirillo Weyland,cweyland1d@etsy.com,531-418-7209,Logistics,Structural Engineer,2024-06-20,Resigned
+51,Web Bonnyson,wbonnyson1e@1und1.de,141-106-9695,Logistics,Operator,2023-09-19,Active
+52,Maureene Langstone,mlangstone1f@hugedomains.com,110-718-1759,Sales,Financial Advisor,2024-11-23,Resigned
+53,Kassia Lohoar,klohoar1g@constantcontact.com,164-517-6257,Support,Statistician IV,2023-11-30,Resigned
+54,Luci Ladbrook,lladbrook1h@goo.ne.jp,992-559-0591,Logistics,Social Worker,2021-02-24,Active
+55,Klarika Varey,kvarey1i@bigcartel.com,171-987-1700,Sales,Data Coordinator,2022-08-05,Active
+56,Kaitlin Fedoronko,kfedoronko1j@wired.com,802-196-7499,Logistics,Human Resources Manager,2025-05-01,Active
+57,Madella Blaksley,mblaksley1k@virginia.edu,697-126-9375,Support,Assistant Media Planner,2022-01-05,Resigned
+58,Teressa McCaughey,tmccaughey1l@360.cn,528-258-2030,Logistics,Account Coordinator,2024-07-09,Resigned
+59,Jo-ann Greathead,jgreathead1m@spiegel.de,447-533-1423,Support,Nurse Practicioner,2021-04-19,Active
+60,Josephina Le Marquis,jle1n@google.com.br,844-699-2170,Sales,Desktop Support Technician,2023-06-06,Resigned
+61,Kerrill Tardiff,ktardiff1o@reddit.com,939-987-4552,Sales,Senior Developer,2024-10-11,Active
+62,Joseph Ambrogioli,jambrogioli1p@vimeo.com,356-260-2903,Logistics,Media Manager III,2022-06-24,Resigned
+63,Daffy Westhoff,dwesthoff1q@discovery.com,691-705-6299,Sales,Associate Professor,2024-01-04,Active
+64,Kristofor Nehlsen,knehlsen1r@google.de,412-616-7191,Support,Speech Pathologist,2021-12-21,Active
+65,Desmond Handyside,dhandyside1s@washingtonpost.com,957-742-5568,Support,Product Engineer,2021-12-30,Resigned
+66,Mureil Harfoot,mharfoot1t@yellowpages.com,253-168-8244,Sales,VP Marketing,2025-03-25,Active
+67,Kai Lossman,klossman1u@hhs.gov,257-191-4656,Sales,Data Coordinator,2022-02-26,Resigned
+68,Harli Sallier,hsallier1v@msu.edu,359-112-7352,Logistics,Occupational Therapist,2021-07-21,Resigned
+69,Normie Casford,ncasford1w@ftc.gov,387-652-0832,Support,Engineer I,2021-07-01,Active
+70,Aloysia Sumpner,asumpner1x@list-manage.com,907-777-0873,Sales,Electrical Engineer,2021-04-05,Active
+71,Gerianna Benns,gbenns1y@seesaa.net,495-248-2174,Support,Associate Professor,2023-05-28,Resigned
+72,Katee Goulborne,kgoulborne1z@forbes.com,579-780-1827,Support,Dental Hygienist,2021-03-01,Active
+73,Dannye Spenclay,dspenclay20@themeforest.net,814-838-1180,Sales,Media Manager III,2023-01-23,Active
+74,Natalie Obal,nobal21@latimes.com,413-786-2169,Support,Director of Sales,2021-10-12,Resigned
+75,Anatol Dayment,adayment22@delicious.com,480-250-2516,Logistics,Food Chemist,2025-01-30,Active
+76,Carlie Radin,cradin23@behance.net,251-410-1933,Sales,Librarian,2024-10-13,Active
+77,Josey Osbaldstone,josbaldstone24@chron.com,499-374-7942,Support,Sales Representative,2023-09-23,Resigned
+78,Laina Perfili,lperfili25@timesonline.co.uk,705-368-5378,Logistics,Project Manager,2022-05-07,Resigned
+79,Winnah Darinton,wdarinton26@nationalgeographic.com,959-683-1259,Logistics,Analog Circuit Design manager,2021-07-30,Resigned
+80,Charita Wooffinden,cwooffinden27@domainmarket.com,649-105-2380,Sales,Food Chemist,2023-05-04,Resigned
+81,Jacenta Grainge,jgrainge28@nationalgeographic.com,808-166-5820,Support,VP Quality Control,2023-04-24,Resigned
+82,Aurthur Rasor,arasor29@businesswire.com,384-367-4611,Support,Accountant I,2024-05-28,Resigned
+83,Iain Stopper,istopper2a@sogou.com,631-555-8681,Logistics,Design Engineer,2025-01-11,Active
+84,Kelsi Triggle,ktriggle2b@yolasite.com,426-317-8097,Sales,Payment Adjustment Coordinator,2021-04-30,Resigned
+85,Frieda Ellerey,fellerey2c@gmpg.org,702-237-2284,Support,Administrative Assistant IV,2022-05-11,Resigned
+86,Yoshi Adlard,yadlard2d@buzzfeed.com,536-936-6536,Sales,Executive Secretary,2023-08-16,Active
+87,Wilma Barcroft,wbarcroft2e@wordpress.org,223-720-3917,Support,Civil Engineer,2022-01-28,Resigned
+88,Cecilius Collingwood,ccollingwood2f@free.fr,229-499-2681,Sales,Help Desk Operator,2025-03-25,Active
+89,Loretta Sherratt,lsherratt2g@bbb.org,590-403-7497,Sales,Human Resources Assistant I,2025-06-11,Resigned
+90,Janis Jedryka,jjedryka2h@stanford.edu,104-931-6978,Logistics,Director of Sales,2022-08-19,Active
+91,Garwin Gratland,ggratland2i@gravatar.com,222-647-0681,Logistics,Editor,2022-01-05,Active
+92,Artus Grishinov,agrishinov2j@yelp.com,483-601-3967,Logistics,VP Product Management,2024-07-01,Resigned
+93,Lindsey Bertomeu,lbertomeu2k@google.ca,765-169-5738,Logistics,Professor,2025-07-16,Resigned
+94,Mohandis Rosenfelder,mrosenfelder2l@ustream.tv,624-293-0533,Sales,Analyst Programmer,2022-09-12,Resigned
+95,Kelsy Bimrose,kbimrose2m@accuweather.com,977-419-1409,Support,Chemical Engineer,2021-01-21,Resigned
+96,Valentine Sawney,vsawney2n@amazon.de,186-228-7246,Sales,Systems Administrator IV,2024-12-25,Active
+97,Sigismund Roger,sroger2o@tiny.cc,234-481-9403,Logistics,Chemical Engineer,2024-11-07,Resigned
+98,Nelli Landon,nlandon2p@ask.com,196-585-9765,Logistics,Web Developer I,2024-12-09,Resigned
+99,Vania O'Farrell,vofarrell2q@weebly.com,438-151-6649,Sales,Nuclear Power Engineer,2022-08-22,Resigned
+100,Courtnay Rossi,crossi2r@craigslist.org,100-114-2681,Sales,Community Outreach Specialist,2022-10-08,Active
